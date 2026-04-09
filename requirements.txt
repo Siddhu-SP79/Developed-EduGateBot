@@ -1,0 +1,6 @@
+flask
+flask-cors
+pyTelegramBotAPI
+python-dotenv
+psycopg2-binary
+waitress
