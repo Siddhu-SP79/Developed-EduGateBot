@@ -1,5 +1,4 @@
 # Developed-EduGateBot
-EduGateBot: Smart Access Control for Academic Content
 
 # EduGateBot: Smart Access Control for Academic Content
 #• Description: Developed a Telegram bot to securely share academic content like notes,
