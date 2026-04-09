@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    restart: always
+    ports:
+      - "5050:5050"
+    env_file: .env
+    volumes:
+      - ./uploads:/app/uploads
