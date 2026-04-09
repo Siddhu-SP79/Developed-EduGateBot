@@ -1,0 +1,5 @@
+DB_NAME=neondb
+DB_USER=neondb_owner
+DB_PASSWORD=npg_qh9tS8XpNMPw
+DB_HOST=ep-morning-king-a6o5tdes-pooler.us-west-2.aws.neon.tech
+DB_PORT=5432
