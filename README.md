@@ -1,6 +1,6 @@
 # Developed-EduGateBot 
 
-# EduGateBot: Smart Access Control for Academic Content  Inside there SOME privacy there not ENTER
+# EduGateBot: Smart Access Control for Academic Content  Inside there SOME privacy there not ENTER Information there
 #• Description: Developed a Telegram bot to securely share academic content like notes,
 #videos, and assignments.
 #• Features: Integrated token-based access control with 24-hour expiry after ad/link
